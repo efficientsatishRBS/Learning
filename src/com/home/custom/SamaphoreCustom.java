@@ -1,6 +1,6 @@
 package com.home.custom;
 
-public class SamaphoreCustom {////
+public class SamaphoreCustom {////ljlj
 	
 	
 	private int permits;
